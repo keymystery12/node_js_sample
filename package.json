@@ -1,0 +1,19 @@
+{
+    "author": "Brendan Dayley",
+    "name": "modulejs",
+    "version": "0.1.1",
+"description": "Censors words out of text",
+"main": "censor",
+"repository":{
+"type":"gift",
+"url":"https://github.com/keymystery12/node_js_sample"
+},
+"keywords":[
+"censor",
+"words"
+],
+"dependencies": {},
+"engines": {
+"node": "*"
+}
+}
