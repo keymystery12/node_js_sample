@@ -1,0 +1,18 @@
+{
+    "author": "Brendan Dayley",
+    "name": "nodejsmodule",
+    "version": "0.1.1",
+"description": "Censors words out of text",
+"main": "censor",
+"repository":{
+"type":"gift"
+},
+"keywords":[
+"censor",
+"words"
+],
+"dependencies": {},
+"engines": {
+"node": "*"
+}
+}
