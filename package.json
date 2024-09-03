@@ -5,7 +5,8 @@
 "description": "Censors words out of text",
 "main": "censor",
 "repository":{
-"type":"gift"
+"type":"gift",
+"url":"https://github.com/keymystery12/node_js_sample"
 },
 "keywords":[
 "censor",
